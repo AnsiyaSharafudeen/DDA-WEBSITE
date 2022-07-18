@@ -399,7 +399,7 @@ h2.title-w3 {
     font-size: 3em;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #111;
+    color: #fff;
 }
 .ab-w3-agile-info-text {
     padding: 5em 2em 0em 4em;
@@ -1143,19 +1143,19 @@ form.contact_form {
 .social .fb:after{
     border-color:#6788ce;
 }
-.social .tw{
-    background: #33ccff;
+.social .insta{
+    background: #C13584;
 }
-.social .tw:before,
-.social .tw:after{
-    border-color: #33ccff;
+.social .insta:before,
+.social .insta:after{
+    border-color: #C13584;
 }
 
-.social .gp{
+.social .yt{
     background: #DD4B39;
 }
-.social .gp:before,
-.social .gp:after
+.social .yt:before,
+.social .yt:after
 {
     border-color: #DD4B39;
 }
