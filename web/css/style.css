@@ -455,7 +455,8 @@ p.sub-text.one {
 }
 #gallery {
 	  padding:5em 0 0 0;
-	  background:#f7f7f7;
+	  background:#ee4f4f;
+	 
 }
 .wthree-agile-classes-section {
     margin-top: 3em;
@@ -536,7 +537,7 @@ p.sub-text.one {
 .class-grid h4 {
     font-size: 1.4em;
     margin-top: 1em;
-    color: #111;
+    color: #fff;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
@@ -993,7 +994,7 @@ h3.title-w3 {
     font-size: 3em;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #111;
+    color: #fff;
 }
 h3.title-w3.con {
 	color:#fff;
